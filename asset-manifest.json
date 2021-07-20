@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/summerschool/static/css/main.a617e044.chunk.css",
+    "main.js": "/summerschool/static/js/main.b8124895.chunk.js",
+    "main.js.map": "/summerschool/static/js/main.b8124895.chunk.js.map",
+    "runtime-main.js": "/summerschool/static/js/runtime-main.fdcc463e.js",
+    "runtime-main.js.map": "/summerschool/static/js/runtime-main.fdcc463e.js.map",
+    "static/js/2.d3def11d.chunk.js": "/summerschool/static/js/2.d3def11d.chunk.js",
+    "static/js/2.d3def11d.chunk.js.map": "/summerschool/static/js/2.d3def11d.chunk.js.map",
+    "static/js/3.a0cc883d.chunk.js": "/summerschool/static/js/3.a0cc883d.chunk.js",
+    "static/js/3.a0cc883d.chunk.js.map": "/summerschool/static/js/3.a0cc883d.chunk.js.map",
+    "index.html": "/summerschool/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/summerschool/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d3def11d.chunk.js.LICENSE.txt": "/summerschool/static/js/2.d3def11d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/summerschool/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdcc463e.js",
+    "static/js/2.d3def11d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b8124895.chunk.js"
+  ]
+}
